@@ -1,0 +1,14 @@
+CREATE DATABASE IF NOT EXISTS studentDB;
+USE studentDB;
+
+CREATE TABLE IF NOT EXISTS students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    course VARCHAR(100) NOT NULL,
+    age INT NOT NULL
+);
+
+INSERT INTO students (name, course, age) VALUES 
+('Krishna', 'Java', 21),
+('Sai', 'Python', 22),
+('Ram', 'C++', 23);
