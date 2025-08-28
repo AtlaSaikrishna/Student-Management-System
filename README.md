@@ -53,6 +53,7 @@ It provides a simple **menu-driven interface** to perform CRUD operations (Creat
 
    
 **▶️ Example Run**
+
    ✨ Student Management System 👨🏻‍🎓🌟
 1. Display all Students
 2. View Student by ID
@@ -60,6 +61,7 @@ It provides a simple **menu-driven interface** to perform CRUD operations (Creat
 4. Update student Info
 5. Remove student by ID
 6. Exit
+   
 👉 Enter your Choice : 3
 
 Enter student name 👨🏻‍🎓 : Krishna
@@ -80,6 +82,7 @@ ID    | Name            | Course     | Age
 
 
 **📂 Project Structure**
+
 student_management_system/
 │── DBConnection.java   # Handles database connection
 │── Main.java           # Menu-driven console app
@@ -88,9 +91,11 @@ student_management_system/
 │── studentdb.sql       # SQL script to create DB & table
 
 **🤝 Contributing**
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 **📄 License**
+
 This project is licensed under the MIT License.
 
 
