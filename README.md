@@ -63,14 +63,19 @@ It provides a simple **menu-driven interface** to perform CRUD operations (Creat
 👉 Enter your Choice : 3
 
 Enter student name 👨🏻‍🎓 : Krishna
+
 Enter course 📚 : Java
+
 Enter student age : 21
+
 ✅ Student addded sussfully! 🤹‍♂✅
 
 
 👉 Enter your Choice : 1
+
 ID    | Name            | Course     | Age
 -----------------------------------------------------
+
 1     | Krishna         | Java       | 21
 
 
