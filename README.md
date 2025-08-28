@@ -84,10 +84,15 @@ ID    | Name            | Course     | Age
 **📂 Project Structure**
 
 student_management_system/
+
 │── DBConnection.java   # Handles database connection
+
 │── Main.java           # Menu-driven console app
+
 │── Student.java        # Student model class (POJO)
+
 │── StudentDAO.java     # Handles CRUD operations
+
 │── studentdb.sql       # SQL script to create DB & table
 
 **🤝 Contributing**
